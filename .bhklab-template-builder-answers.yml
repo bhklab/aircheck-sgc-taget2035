@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier
+_commit: 0.14.2
+_src_path: gh:bhklab/bhklab-project-template
+additional_authors_raw: Nabin Bagale, Kiana JenabiDehkordi
+author_email: bhklab.shayreza@gmail.com
+author_full_name: Shay Reza
+github_username: ShagReza
+has_additional_authors: true
+project_description: Aircheck is a platform for high quality and structured data to
+    enable the prediction of small molecules interactions with proteins using AI/ML.
+project_name: Aircheck-SGC-Taget2035
+project_slug: aircheck-sgc-taget2035
+publish_to_github: true
+python_version: '3.12'
+repo_location: bhklab
