@@ -23,6 +23,7 @@ nav:
   - Usage: usage.md
   - Data Sources: data_sources.md
   - Developer Notes: devnotes.md
+  - Yearly Project Plan: yearly-project-plan.md
 
 theme: readthedocs
 
